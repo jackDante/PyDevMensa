@@ -1,5 +1,8 @@
 # Importing module
 import mysql.connector
+import mysql.connectorimport mysql.connectorimport mysql.connector
+import mysql.connector
+import mysql.connector
 
 # Creating connection object
 mydb = mysql.connector.connect(
