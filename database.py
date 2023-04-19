@@ -3,6 +3,7 @@ import mysql.connector
 import mysql.connectorimport mysql.connectorimport mysql.connector
 import mysql.connector
 import mysql.connector
+print ("ciao")
 
 # Creating connection object
 mydb = mysql.connector.connect(
